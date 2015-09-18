@@ -102,6 +102,7 @@ GEM
       rack (>= 1.0)
     rails-assets-bootstrap (3.3.5)
       rails-assets-jquery (>= 1.9.1)
+    rails-assets-gmaps (0.4.19)
     rails-assets-jquery (2.1.4)
     rb-fsevent (0.9.6)
     rb-inotify (0.9.5)
@@ -136,3 +137,4 @@ DEPENDENCIES
   middleman (~> 3.4.0)
   middleman-livereload (~> 3.1.0)
   rails-assets-bootstrap (~> 3.3.0)!
+  rails-assets-gmaps (~> 0.4.0)!
